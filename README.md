@@ -5,7 +5,6 @@ This project is implemented using `C` and Parsing of HTTP
 ## Index
 ## Project Theory
 
-[[Back to top]](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#index)
 
 ##### Introduction
 
